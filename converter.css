@@ -1,0 +1,15 @@
+.table-class {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.table-class tr td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.table-class th {
+    border: 1px solid black;
+    padding: 4px;
+}
